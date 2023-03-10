@@ -1,1 +1,1 @@
-Learning object-oriented programming with Python!
+Learning python oop basics!
